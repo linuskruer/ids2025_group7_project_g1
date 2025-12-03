@@ -27,12 +27,12 @@ ids2025_group7_project_g1/
 │ ├── DataExploration_PCA_Clustering.ipynb
 │ ├── RandomForest_SVR.ipynb
 │ ├── RandomForest_SVR_with_FeatureEngineering.ipynb
-│ ├── Regression_Linus.ipynb
-│ ├── neural_networks_helena.ipynb
-│ ├── Ensemble_Linus.ipynb
+│ ├── Regression.ipynb
+│ ├── neural_networks.ipynb
+│ ├── Ensemble.ipynb
 │ ├── **melting-point-optuna-optimized.ipynb** # requires Data/helper
 │ ├── G1_report.ipynb
-│ └── Helena.ipynb
+│ └── Plotting.ipynb
 │
 ├── Submissions/ # all submission-csv´s
 │
