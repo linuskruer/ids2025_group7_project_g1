@@ -37,6 +37,6 @@ ids2025_group7_project_g1/
 │
 ├── Submissions/                   # all Kaggle submission CSVs
 │
-├── G1_report.pdf                  # final project report
+├── G1_report.pdf                  # project report HW10
 ├── qrcode_www.kaggle.com.png      # QR code for the poster
 └── README.md
