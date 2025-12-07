@@ -24,16 +24,16 @@ ids2025_group7_project_g1/
 ├── Graphics/                      # Figures and graphics for the poster
 │
 ├── Jupyter Notebooks/
-│   ├── DataExploration.ipynb
-│   ├── DataExploration_PCA_Clustering.ipynb
-│   ├── RandomForest_SVR.ipynb
-│   ├── RandomForest_SVR_with_FeatureEngineering.ipynb
-│   ├── Regression.ipynb
-│   ├── neural_networks.ipynb
-│   ├── Ensemble.ipynb
-│   ├── melting-point-optuna-optimized.ipynb   # requires Data/helper
-│   ├── G1_report.ipynb
-│   └── Plotting.ipynb
+│   ├── DataExploration.ipynb                           # basic dataset overview
+│   ├── DataExploration_PCA_Clustering.ipynb            # structural patterns & clustering
+│   ├── RandomForest_SVR.ipynb                          # baseline rf/svr models
+│   ├── RandomForest_SVR_with_FeatureEngineering.ipynb  # rf/svr with rdkit features
+│   ├── Regression.ipynb                                # linear regression models
+│   ├── neural_networks.ipynb                           # deep learning baseline
+│   ├── Ensemble.ipynb                                  # combined model predictions
+│   ├── melting-point-optuna-optimized.ipynb            # final optimized model
+│   ├── G1_report.ipynb                                 # report generation notebook
+│   └── Plotting.ipynb                                  # figures for report
 │
 ├── Submissions/                   # all Kaggle submission CSVs
 │
