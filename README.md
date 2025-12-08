@@ -33,10 +33,10 @@ ids2025_group7_project_g1/
 │   ├── Ensemble.ipynb                                  # combined model predictions
 │   ├── melting-point-optuna-optimized.ipynb            # final optimized model
 │   ├── G1_report.ipynb                                 # report generation notebook
-│   └── Plotting.ipynb                                  # figures for report
+│   └── Plotting_KNN.ipynb                              # figures for report and KNN model
 │
 ├── Submissions/                   # all Kaggle submission CSVs
 │
-├── G1_report.pdf                  # final project report
+├── G1_report.pdf                  # project report HW10
 ├── qrcode_www.kaggle.com.png      # QR code for the poster
 └── README.md
